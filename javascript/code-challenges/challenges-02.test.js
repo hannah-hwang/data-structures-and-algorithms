@@ -150,7 +150,6 @@ const snorlaxAbilities = {
 const extractAbilities = (arr) => {
   // Solution code here...
 };
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 10 - Stretch Goal
 
